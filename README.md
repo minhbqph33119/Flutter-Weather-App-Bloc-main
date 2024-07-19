@@ -18,13 +18,13 @@ A simple Flutter project demonstrating the use of the Bloc pattern for state man
 
 ## Screenshots
 
-![Screenshot 1](https://github.com/duyhuy27/Flutter-Weather-App-Bloc/blob/main/screenshots/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20Max%20-%202024-01-22%20at%2005.02.20.png)
+![Screenshot 1](https://github.com/minhbqph33119/Flutter-Weather-App-Bloc/blob/main/screenshots/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20Max%20-%202024-01-22%20at%2005.02.20.png)
 
 ## Installation
 
 ```bash
 # 1. Clone the Repository:
-git clone https://github.com/duyhuy27/Flutter-Weather-App-Bloc.git
+git clone https://github.com/minhbqph33119/Flutter-Weather-App-Bloc.git
 
 # 2. Navigate to the Project Directory:
 cd weather_app_bloc_1
@@ -64,8 +64,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-For inquiries or suggestions, please feel free to open an issue or contact the project maintainer at huy.mobcontact@gmail.com.
-
+For inquiries or suggestions, please feel free to open an issue or contact the project maintainer at bminh248@gmail.com
 ---
 
 Happy coding! 🌦️
